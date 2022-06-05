@@ -1,4 +1,4 @@
-package com.jvm.chapter4_vmstack;
+package com.jvm.chapter4_vmstack.java4_7;
 
 /**
  * 动态链接
